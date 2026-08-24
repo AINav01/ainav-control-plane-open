@@ -1,0 +1,25 @@
+# CURSOR: Open Folder = ainav-control-plane-open root (see OPEN_IN_CURSOR.md). Empty New Project = FAIL.
+
+# AINav Control Plane — public open pack
+# Job C only: dual-admitted effect authority before privileged SoR writes
+
+## Non-negotiables
+- Dual: distinct principals, action_hash, single-use, fail-closed
+- SoR only after admit ok · DecisionRecord for proof
+- L1 prove → P-ADM cover → packs deepen
+- U-DUAL never free with P-ADM or U-SOR
+- Repo truth > chat memory · no invented SKUs
+- No LIVE_PIN_OK / product HA / signed L1 without evidence
+
+## Commercial bands
+- L1 $28–40k · P-ADM $40–60k/yr · U-DUAL $20–35k/yr
+
+## Success
+LIVE_PIN_OK × proof day × signed L1 × P-ADM attach
+
+## OPEN (do not fake-close)
+- G1/G10 pin · G12 legal · G13 signed L1 · G14 live SoR · product HA until live Redis fixtures
+
+## Deep review (Grok 4.6)
+- bash scripts/check_cursor_workspace.sh then bash scripts/review_sandbox.sh
+- Prompt: docs/PASTE_GROK46_REVIEW.md (self-contained)
